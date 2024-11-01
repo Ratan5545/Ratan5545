@@ -1,6 +1,3 @@
-## Hi there 👋
-
-# 👋 Hello, I'm Ratan! 
 
 
 # 👋 Hello, I'm Ratan! 
