@@ -50,7 +50,13 @@ Contributions to community-driven projects as part of **GirlScript Summer of Cod
 For more details and to explore additional projects, visit my [GitHub profile](https://github.com/Ratan5545).
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ratan5545&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ratan5545&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratan5545&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ratan5545&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ⚡ Tech Stack:
 - **Languages**: HTML, CSS, JavaScript, Python
