@@ -67,15 +67,7 @@ For more details and to explore additional projects, visit my [GitHub profile](h
 
 ---
 
-### 🌟 Fun Fact
-I enjoy combining technology with community work! Working with **Selfless Sewa NGO** taught me the power of tech for social good.
-
-Let's connect and build something amazing together! 🚀
-
-
-
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -90,4 +82,13 @@ Let's connect and build something amazing together! 🚀
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-</details>
+
+---
+
+### 🌟 Fun Fact
+I enjoy combining technology with community work! Working with **Selfless Sewa NGO** taught me the power of tech for social good.
+
+Let's connect and build something amazing together! 🚀
+
+
+
