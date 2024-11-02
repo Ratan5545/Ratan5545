@@ -23,7 +23,7 @@ A web application designed to streamline hospital operations, featuring patient 
 ---
 
 #### 2. [2D Platformer Game](https://github.com/Ratan5545/2d-platformer-game)  
-An interactive game built with HTML5, CSS, and JavaScript, showcasing character controls, obstacles, and level progression.
+An interactive game built with Godot engine and C#, showcasing character controls, obstacles, and level progression.
 
 ---
 
