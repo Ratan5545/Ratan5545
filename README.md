@@ -2,13 +2,13 @@
 
 # 👋 Hello, I'm Ratan! 
 
-I am a passionate **2nd-year Electrical Engineering student** at **Delhi Technological University** 🎓. I enjoy combining my technical skills with creativity, focusing on **front-end design** and **blockchain technology**. Currently contributing to open-source projects through **GirlScript Summer of Code (GSSOC) 2024** 🚀.
+I am a passionate **2nd-year Electrical Engineering student** at **Delhi Technological University** 🎓. I enjoy combining my technical skills with creativity, focusing on **front-end design** and **Development of 3D Models and Games**. Currently contributing to open-source projects through **GirlScript Summer of Code (GSSOC) 2024** 🚀.
 
 ---
 
 ### 🌱 What I’m Currently Working On:
 
-- **2D Platformer Game**: A fun, interactive game developed using HTML5, CSS, and JavaScript. This project showcases my interest in game development and creative coding, featuring character controls, obstacles, and level progression. It’s a work in progress aimed at improving user experience, adding more levels, and enhancing game mechanics. [Check it out on GitHub](https://github.com/Ratan5545/2d-platformer-game)
+- **2D Platformer Game**: A fun, interactive game developed using C# and Godot engine. This project showcases my interest in game development and creative coding, featuring character controls, obstacles, and level progression. It’s a work in progress aimed at improving user experience, adding more levels, and enhancing game mechanics. [Check it out on GitHub](https://github.com/Ratan5545/2d-platformer-game)
 
 - **Hospital Management System**: A comprehensive system to streamline hospital operations, focusing on patient management, appointment scheduling, and record tracking. This project demonstrates my practical experience in front-end development and UI design. [See the project on GitHub](https://github.com/Ratan5545/hospital-management-system)
 
