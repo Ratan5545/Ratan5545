@@ -56,7 +56,6 @@ Contributions to community-driven projects as part of **GirlScript Summer of Cod
 
 ### ⚡ Tech Stack:
 - **Languages**: HTML, CSS, JavaScript, Python
-- **Frameworks & Libraries**: React.js, Bootstrap
 - **Tools**: Git, GitHub, Figma, Canva
 - **Areas of Interest**: Blockchain, Front-End Development, Open Source Contribution
 
